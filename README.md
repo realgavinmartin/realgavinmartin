@@ -8,7 +8,7 @@ Hi there! I'm Gavin Martin, a Full Stack Engineer from West Virginia.
 
 #### About Me
 
-I've had a great deal of experience running backend systems at the backbone of [Cloud Firestore](https://cloud.google.com/firestore) and NodeJS (primarily express); I also have experience with creating REST APIs with Java Spring. I've worked with many frontend technologies such as NextJS, Angular and am a huge fan of material design.
+I've had a great deal of experience running backend systems at the backbone of [Cloud Firestore](https://cloud.google.com/firestore) and NodeJS (primarily express); I also have experience with creating REST APIs with Java Spring. I've worked with many frontend technologies such as NextJS, Angular and am a huge fan of material design & Bulma.
 
 #### Contact Me
 
